@@ -11,7 +11,7 @@ Building the backend for Kins, a B2B2C SaaS platform connecting homeowners with 
 Node.js · Express · Next.js · TypeScript · PostgreSQL · MongoDB · Prisma · JWT · Socket.IO · FastAPI · Tailwind CSS
 
 **Competitive programming**
-400+ LeetCode solved · [Piyush29s](https://leetcode.com/Piyush29s) · weekly contests, working toward Candidate Master on Codeforces
+650+ LeetCode solved · [Piyush29s](https://leetcode.com/Piyush29s) · weekly contests, working toward Candidate Master on Codeforces
 
 **Reach me**
 [LinkedIn](https://linkedin.com/in/heypiyushsharma) · heypiyushsharma@gmail.com
