@@ -1,4 +1,4 @@
-### Hi, I'm Piyush — backend engineer, co-founder @ Kins
+### Hi, I'm Piyush — backend engineer
 
 Building the backend for Kins, a B2B2C SaaS platform connecting homeowners with verified solar vendors across India. 3rd-year B.Tech CS student at DSEU, graduating 2028.
 
